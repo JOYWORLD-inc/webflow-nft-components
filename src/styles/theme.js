@@ -124,7 +124,7 @@ export const theme = createTheme({
         }
     },
     typography: {
-        fontFamily: '"Inter", San Francisco, Roboto, Helvetica, sans-serif',
+        fontFamily: '"GT Maru", San Francisco, Roboto, Helvetica, sans-serif',
         button: {
             color: buttonTextColor,
             fontSize: "16px !important",

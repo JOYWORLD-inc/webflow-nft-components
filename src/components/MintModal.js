@@ -83,7 +83,7 @@ export const MintModal = (props, ref) => {
             }
             {!isLoading && <>
             <DialogTitleWithClose onClose={handleClose}>
-                <Typography variant="h1">Mint now</Typography>
+                <Typography variant="h1">Mint JOYtoy</Typography>
             </DialogTitleWithClose>
             <DialogContent className="mintModal-content">
                 {step === 1 && <QuantityModalStep
